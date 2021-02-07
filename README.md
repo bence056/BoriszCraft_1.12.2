@@ -6,7 +6,7 @@
 
 # Modpack Details
 * This pack requires **Minecraft version 1.12.2** with **forge-1.12.2-14.23.5.2854**
-* Use the included start file found in the [server release](https://google.com/) if you want to host a dedicated session.
+* Use the included start file found in the [server release](https://github.com/bence056/BoriszCraft_1.12.2_SERVER) if you want to host a dedicated session.
 
 ### Enjoy!
 # 
