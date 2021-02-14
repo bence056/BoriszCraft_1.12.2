@@ -88,8 +88,16 @@ Mekanism:Generators
 AppleSkin
 Spice of Life: Carrot Edition
 
+
+MoreOverlays
+NuclearCraft
+IndustrialForegoing
+
 //Dependencies
 
+NotEnoughIDs
+TeslaCoreLib
+Forgelin
 AppleCore
 Bookshelf
 Mantle
@@ -113,6 +121,8 @@ CreativeCore
 Crafttweaker2
 MicDoodleCore
 MJRLegendsLib
+
+
 
 //Parameters:
 
