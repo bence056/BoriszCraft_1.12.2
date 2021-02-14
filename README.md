@@ -9,6 +9,9 @@
 * Use the included start file found in the [server release](https://github.com/bence056/BoriszCraft_1.12.2_SERVER) if you want to host a dedicated session.
 * **\[IMPORTANT\]** - You have to add the JVM argument found in the .modlist file **"-Dcofh.rf.crashOnOldAPI=false"** for the game to work properly.
 
+## Modlist:
+* You can find the detailed modlist [here](https://github.com/bence056/BorisesAddons/blob/master/MODLIST.md).
+
 ### Enjoy!
 # 
 <img width="500" height="500" src="./etc/server-icon.png" align=left>
