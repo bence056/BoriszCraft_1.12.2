@@ -10,7 +10,7 @@
 * **\[IMPORTANT\]** - You have to add the JVM argument found in the .modlist file **"-Dcofh.rf.crashOnOldAPI=false"** for the game to work properly.
 
 ## Modlist:
-* You can find the detailed modlist [here](https://github.com/bence056/BorisesAddons/blob/master/MODLIST.md).
+* You can find the detailed modlist [here](https://github.com/bence056/BoriszCraft_1.12.2/blob/master/MODLIST.md).
 
 ### Enjoy!
 # 
