@@ -66,7 +66,7 @@
 * [Fence Overhaul](https://www.curseforge.com/minecraft/mc-mods/fence-overhaul)
 * [BetterBuildersWands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
 * [Tinker's Tool Levelling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)
-* [GrappleMod](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
+* [Hooked](https://www.curseforge.com/minecraft/mc-mods/hooked)
 * [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 * [Iron Backpacks](https://www.curseforge.com/minecraft/mc-mods/iron-backpacks)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
@@ -117,3 +117,4 @@
 * [p455w0rdsLib](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library)
 * [shetiphiancore](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
 * [structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
+* [LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib)
