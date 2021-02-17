@@ -36,6 +36,7 @@
 * [Tiny Progressions](https://www.curseforge.com/minecraft/mc-mods/tiny-progressions)
 * [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod)
 * [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+* [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 * [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
 * [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
@@ -118,3 +119,4 @@
 * [shetiphiancore](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
 * [structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
 * [LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib)
+* [ValkyreLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib)
